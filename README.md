@@ -146,3 +146,6 @@ ier ejercicio
 ~~~
 ##2 DISEÑO DE LA SOLUCION
 ![](https://github.com/lorenzoosvixd/T3A-7/blob/main/T3A7.jpg)
+##3 SOLUCION DEL PROBLEMA 
+(
+
